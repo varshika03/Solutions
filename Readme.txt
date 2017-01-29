@@ -1,1 +1,0 @@
-This repository contains solutions of problems solved on various online judges like hackerrank,codechef,spoj and hackerearth.
